@@ -1,4 +1,7 @@
 # Report_Automation
+A script that automated daily reports
+
+
 I wrote this script to aid me and some of my colleagues with writing our daily reports.
 My problem was essentially that writing a report felt repetitive and sluggish.
 I decided to write a quick automation script that completes the report for me.
